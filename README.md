@@ -10,4 +10,4 @@ Note** To find the server/client source code for video-chat-app visit https://gi
 
 Devpost: https://devpost.com/software/neighbor-network
 
-Demo Link(Web-App): https://bananahacks2021v3.netlify.app/
+Demo Link(Web-App): https://neighbournetwork.netlify.app/
